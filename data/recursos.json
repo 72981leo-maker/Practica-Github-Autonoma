@@ -18,5 +18,48 @@
     "autor_fuente": "Universidad Nacional Autónoma de México (UNAM)",
     "anio": 2020,
     "url": "https://example.org/calculo-intro"
+  },
+  {
+    "id": 3,
+    "titulo": "Python para Análisis de Datos",
+    "tipo": "Curso en línea",
+    "tema": "Programación",
+    "nivel": "Intermedio",
+    "autor_fuente": "Python Data Institute",
+    "anio": 2023,
+    "url": "https://example.org/python-datos"
+  }
+]
+
+[
+  {
+    "id": 1,
+    "titulo": "Deep Learning: Methods and Applications",
+    "tipo": "Artículo Científico",
+    "tema": "Inteligencia Artificial",
+    "nivel": "Posgrado/Investigación Avanzada",
+    "autor_fuente": "Foundations and Trends in Signal Processing",
+    "anio": 2014,
+    "url": "https://example.org/deep-learning"
+  },
+  {
+    "id": 2,
+    "titulo": "Introducción al Cálculo Diferencial e Integral",
+    "tipo": "Libro",
+    "tema": "Matemáticas",
+    "nivel": "Pregrado",
+    "autor_fuente": "Universidad Nacional Autónoma de México (UNAM)",
+    "anio": 2020,
+    "url": "https://example.org/calculo-intro"
+  },
+  {
+    "id": 3,
+    "titulo": "Historia del Arte Moderno",
+    "tipo": "Video Educativo",
+    "tema": "Historia del Arte",
+    "nivel": "Introductorio/Divulgación",
+    "autor_fuente": "Khan Academy",
+    "anio": 2021,
+    "url": "https://example.org/historia-arte"
   }
 ]
