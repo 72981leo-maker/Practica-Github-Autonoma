@@ -22,3 +22,9 @@ pip freeze > requirements.txt
 
 Excluir el entorno del control de versiones:
 Asegúrate de agregar .venv/ dentro de tu archivo .gitignore para no subir la carpeta a Git.
+
+## Próximas mejoras
+
+- Implementación de la lógica de filtrado por criterio en `app/main.py`.
+- Creación de interfaz CLI interactiva para consulta de recursos.
+- Carga y persistencia dinámica desde el archivo JSON.
