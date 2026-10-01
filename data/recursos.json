@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "titulo": "Deep Learning: Methods and Applications",
+    "tipo": "Artículo Científico",
+    "tema": "Inteligencia Artificial",
+    "nivel": "Posgrado/Investigación Avanzada",
+    "autor_fuente": "Foundations and Trends in Signal Processing",
+    "anio": 2014,
+    "url": "https://example.org/deep-learning"
+  },
+  {
+    "id": 2,
+    "titulo": "Introducción al Cálculo Diferencial e Integral",
+    "tipo": "Libro",
+    "tema": "Matemáticas",
+    "nivel": "Pregrado",
+    "autor_fuente": "Universidad Nacional Autónoma de México (UNAM)",
+    "anio": 2020,
+    "url": "https://example.org/calculo-intro"
+  }
+]

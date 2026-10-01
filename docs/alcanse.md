@@ -1,0 +1,1 @@
+Definimos la hoja de ruta para una versión futura (v2.0) detallando cuatro funcionalidades (TUI interactiva, base de datos, exportación de reportes e integración con APIs REST).
