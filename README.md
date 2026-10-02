@@ -23,6 +23,15 @@ pip freeze > requirements.txt
 Excluir el entorno del control de versiones:
 Asegúrate de agregar .venv/ dentro de tu archivo .gitignore para no subir la carpeta a Git.
 
+## Tipos de recursos
+
+El catálogo incluye los siguientes tipos de recursos educativos:
+
+- Artículo Científico
+- Libro
+- Curso en línea
+- Video Educativo
+
 ## Próximas mejoras
 
 - Implementación de la lógica de filtrado por criterio en `app/main.py`.
