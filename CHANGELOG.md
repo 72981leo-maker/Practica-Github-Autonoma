@@ -10,3 +10,9 @@ Todas las notas sobre los cambios notables de este proyecto se documentarán en 
 - Definición de criterios en `docs/criterios.md`.
 - Base de datos inicial de ejemplo en `data/recursos.json`.
 - Script de entrada principal `app/main.py`.
+
+## Añadido
+
+Estructura base del proyecto: Creación de la arquitectura inicial de directorios y archivos (data/, docs/, app/).
+
+Gestión de dependencias:
